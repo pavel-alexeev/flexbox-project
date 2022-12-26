@@ -687,17 +687,3 @@ footer {
   padding: 15px 0;
   font-size: 1.25rem;
 }
-
-.footer-section img {
-  width: 17px;
-  height: 17px;
-  padding-right: 4px;
-  position: relative;
-  top: 1.5px;
-}
-
-/* .footer-section span {
-  font-size: 1.875rem;
-  padding-right: 2px;
-  align-self: flex-end;
-} */
