@@ -357,8 +357,15 @@
       </div>
     </main>
     <footer>
-      <div class="footer-section">       
-        <h3>©Copyright 2022 by Pavels Aleksejevs</h3>
+      <div class="footer-section">
+        <h3>©Copyright Pavels Aleksejevs</h3>
+        <span id="copyright">
+          <script>
+            document
+              .getElementById("copyright")
+              .appendChild(document.createTextNode(new Date().getFullYear()));
+          </script>
+        </span>
       </div> 
     </footer>
   </body>
