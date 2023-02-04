@@ -1,6 +1,7 @@
 body {
   background-color: rgba(139, 205, 236, 0.35);
   font-family: "Yanone Kaffeesatz", sans-serif !important;
+  font-size: 30px;
 }
 
 /* Header  */
